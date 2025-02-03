@@ -8,7 +8,7 @@
     border-radius: 10px;
     padding:5%;
     box-shadow: 0px 0px 30px rgba(0, 0, 0, 265);
-    color: orange;
+    color: orange     ;
 
 }
 .icon-style{
@@ -24,4 +24,48 @@
 .arrow-pos{
     padding-left:80%;
     margin-top: 20%;
+}
+.color-orange{
+    color: orange;
+}
+.color-white{
+    color: rgb(255, 255, 255);
+}
+.rouned{
+    border-radius: 10px;
+}
+.hello{
+    padding-top:80%;
+}
+
+
+.circle{
+    background-color: brown;
+    color: black;
+    
+    border-radius: 10px;
+    padding: 1px;
+    font-weight: bold;
+    
+}
+.rouge{
+    color: red;
+    font-size: 70px;
+    margin-bottom: 10%;
+}
+input,select,textarea{
+    background-color: azure !important; 
+    border-radius: 10px !important;
+    border: black 2px solid !important;
+}
+#but{
+    background-color: black;
+    color: white;
+    width:100%;
+}
+#but:hover{
+    background-color: rgb(236, 235, 235);
+    color:black;
+    width:100%;
+    border: black 2px solid;
 }
